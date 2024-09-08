@@ -4,3 +4,5 @@ copy /y %USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds\Nyandoma.fwl .\Ny
 git add .
 git commit -m "save progress"
 git push
+
+pause
