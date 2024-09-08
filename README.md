@@ -8,7 +8,7 @@
 
 * start_game.bat
 
-* ## Pull changes
+## Pull changes
 
 * git pull
 
