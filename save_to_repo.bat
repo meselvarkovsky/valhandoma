@@ -1,7 +1,7 @@
-copy /y %USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds\Nyandoma.db .\Nyandoma.db
-copy /y %USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds\Nyandoma.fwl .\Nyandoma.fwl
+copy /y %USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds\Nyandoma.db .\data\Nyandoma.db
+copy /y %USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds\Nyandoma.fwl .\data\Nyandoma.fwl
 
-git fetch
+call scripts/update.bat
 
 git add .
 git commit -m "save progress"
