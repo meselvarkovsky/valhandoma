@@ -8,6 +8,12 @@
 
 * start_game.bat
 
+* ## Pull changes
+
+* git pull
+
+* save_to_repo.bat
+
 ## Save changes
 
 * save_to_repo.bat
