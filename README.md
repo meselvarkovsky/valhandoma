@@ -2,7 +2,7 @@
 
 ## Get started
 
-* git clone https://github.com/meselvarkovsky/valhandoma.git valhandoma && cd ./valhandoma && ./init.bat
+* git clone https://github.com/meselvarkovsky/valhandoma.git valhandoma && cd valhandoma && init.bat
 
 * ./patch_game.bat
 
