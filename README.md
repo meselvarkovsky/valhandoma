@@ -4,10 +4,10 @@
 
 * git clone https://github.com/meselvarkovsky/valhandoma.git valhandoma && cd valhandoma && init.bat
 
-* ./patch_game.bat
+* patch_game.bat
 
-* ./start_game.bat
+* start_game.bat
 
 ## Save changes
 
-* ./save_to_repo.bat
+* save_to_repo.bat
