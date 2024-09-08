@@ -1,7 +1,13 @@
 # valhandoma
 
-git clone https://github.com/meselvarkovsky/valhandoma.git && init.bat
+## Get started
 
-./patch_game.bat
+* git clone https://github.com/meselvarkovsky/valhandoma.git && init.bat
 
-./start_game.bat
+* ./patch_game.bat
+
+* ./start_game.bat
+
+## Save changes
+
+* ./save_to_repo.bat
