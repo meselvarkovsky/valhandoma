@@ -12,8 +12,6 @@
 
 * git pull
 
-* save_to_repo.bat
-
 ## Save changes
 
 * save_to_repo.bat
